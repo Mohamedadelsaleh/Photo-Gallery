@@ -11,7 +11,7 @@ Photo Gallery With React &amp; Firebase
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 ## Table of contents
-* [Live Demo](#live)
+* [Live Demo](#live-demo)
 * [Setup](#setup)
 * [OpenSourse](#opensourse)
 * [Authors](#authors)
