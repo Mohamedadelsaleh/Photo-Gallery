@@ -11,14 +11,14 @@ Photo Gallery With React &amp; Firebase
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 ## Table of contents
-* [Live](#live)
+* [Live Demo](#live)
 * [Setup](#setup)
 * [OpenSourse](#opensourse)
 * [Authors](#authors)
 * [Built With](#built-with)
 ***
 
-## Live
+## Live Demo
 
 ```bash
 https://mohamedadelsaleh.github.io/Photo-Gallery/
