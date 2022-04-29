@@ -1,11 +1,12 @@
 import React from 'react'
+import image from '../images/1.png'
 
 const Header = () => {
     return (
         <div className="title">
-            <h1>Gallary</h1>
+            <img className="logo" src={image} alt="logo" />
             <h2>Your Pictures</h2>
-            <p>lorem ipsum dolor sit amet, consect</p>
+            <p>Add Your Pictures Here</p>
         </div>
     )
 }
