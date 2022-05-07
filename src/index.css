@@ -88,7 +88,7 @@ label:hover{
 
 /* image grid styles */
 .img-grid{
-  margin: 20px auto;
+  margin: 10px auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 40px;
